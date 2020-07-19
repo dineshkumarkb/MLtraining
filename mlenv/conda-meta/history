@@ -21,3 +21,17 @@
 +defaults/linux-64::xz-5.2.5-h7b6447c_0
 +defaults/linux-64::zlib-1.2.11-h7b6447c_3
 # update specs: ['python=3.7']
+==> 2020-07-19 16:49:39 <==
+# cmd: /home/dineshkumarkb/anaconda3/bin/conda install numpy
+# conda version: 4.8.3
++defaults/linux-64::blas-1.0-mkl
++defaults/linux-64::intel-openmp-2020.1-217
++defaults/linux-64::libgfortran-ng-7.3.0-hdf63c60_0
++defaults/linux-64::mkl-2020.1-217
++defaults/linux-64::mkl-service-2.3.0-py37he904b0f_0
++defaults/linux-64::mkl_fft-1.1.0-py37h23d657b_0
++defaults/linux-64::mkl_random-1.1.1-py37h0573a6f_0
++defaults/linux-64::numpy-1.18.5-py37ha1c710e_0
++defaults/linux-64::numpy-base-1.18.5-py37hde5b4d6_0
++defaults/noarch::six-1.15.0-py_0
+# update specs: ['numpy']
